@@ -5,9 +5,9 @@ import './index.css';
 
 import App from './App';
 import reportWebVitals from './reportWebVitals';
-import Headder from './components/headder/Headder';
-// context api react 
-import AppContext from './AppContext';
+// import Headder from './components/headder/Headder';
+// // context api react 
+// import AppContext from './AppContext';
 
 import store from './redux/store';
 import { Provider } from 'react-redux';
